@@ -3,7 +3,8 @@
 An autonomous data engineering pipeline designed to ingest, filter, serialize, and log localized professional roles in real-time. This system addresses the inefficiencies of manual board navigation by layering contextual Generative AI filtering over a hardened duplicate protection logic gate.
 
 ## 🏗️ System Architecture Overview
-*Include a clean, horizontally cropped screenshot of your newly renamed Make canvas here*
+<img width="1762" height="728" alt="Screenshot 2026-06-18 113558" src="https://github.com/user-attachments/assets/a626c279-4285-4f3b-becf-aec577bccd3b" />
+
 
 ## 🛠️ Tech Stack & Key Elements
 - **Orchestration:** Make.com Advanced Scenarios
