@@ -118,7 +118,7 @@
                     },
                     {
                         "name": "api_key",
-                        "value": "d93e9291115809dda8e769b9c3a8b2d06fee3e77e76216652619f923f0143080"
+                        "value": "YOUR SERP API KEY"
                     }
                 ],
                 "stopOnHttpError": true,
